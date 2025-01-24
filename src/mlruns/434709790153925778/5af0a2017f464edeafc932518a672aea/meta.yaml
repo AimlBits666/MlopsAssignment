@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mukesh/pycharm_project/Mlops_Pro/assignment/MlopsAssignment/src/mlruns/434709790153925778/5af0a2017f464edeafc932518a672aea/artifacts
+end_time: 1737713212505
+entry_point_name: ''
+experiment_id: '434709790153925778'
+lifecycle_stage: active
+run_id: 5af0a2017f464edeafc932518a672aea
+run_name: unique-worm-828
+run_uuid: 5af0a2017f464edeafc932518a672aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737713205060
+status: 3
+tags: []
+user_id: Macro

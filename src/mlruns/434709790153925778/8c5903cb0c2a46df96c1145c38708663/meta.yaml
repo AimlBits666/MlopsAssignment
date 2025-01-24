@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mukesh/pycharm_project/Mlops_Pro/assignment/MlopsAssignment/src/mlruns/434709790153925778/8c5903cb0c2a46df96c1145c38708663/artifacts
+end_time: 1737716319749
+entry_point_name: ''
+experiment_id: '434709790153925778'
+lifecycle_stage: active
+run_id: 8c5903cb0c2a46df96c1145c38708663
+run_name: valuable-finch-602
+run_uuid: 8c5903cb0c2a46df96c1145c38708663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737716307493
+status: 3
+tags: []
+user_id: Macro
